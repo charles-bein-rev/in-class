@@ -9,6 +9,7 @@ public class ForLoops {
 		int[] array = new int[5];
 		for(int j : array) {
 			//Also runs 5 times, once per array element
+			System.out.println(j);
 		}
 	}
 }

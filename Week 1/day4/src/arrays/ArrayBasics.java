@@ -5,7 +5,7 @@ public class ArrayBasics {
 		int[] numArray = {0, 1, 1, 2, 3, 5};
 		
 		for(int i : numArray) {
-//			System.out.println(i);
+			System.out.println(i);
 		}
 		
 		//Checking default array values for prims
